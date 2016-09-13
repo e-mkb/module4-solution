@@ -69,3 +69,4 @@ window.helloSpeaker = helloSpeaker;
 
 
 })(window);
+console.log("Thanks for reviewing!");
